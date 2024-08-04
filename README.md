@@ -27,7 +27,7 @@ A fork of the Python Imaging Library (PIL), used to manage and display images su
 https://github.com/mohamed-shafi-w/codeclause/assets/171848531/c0897bcb-c73e-4534-bd44-2d84d3a119ae
 
 ## License
-This project is licensed under GPL-2.0 License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under GPL-2.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 * [Tkinter](https://docs.python.org/3/library/tkinter.html) - for the GUI
