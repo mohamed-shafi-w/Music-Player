@@ -1,4 +1,4 @@
-# 2. Music Player
+# Music Player
 ## Overview
 This is a simple and user-friendly music player application built using Python. It leverages the Tkinter library for the Graphical User Interface, Pygame for audio playback and Pillow for handling images.
 The application allows users to play, pause, resume and navigate through their music library with ease.
